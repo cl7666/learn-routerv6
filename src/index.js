@@ -7,7 +7,7 @@ import {
 import App from "./App";
 import Expenses from "./routes/expenses";
 import Invoices from "./routes/invoices";
-import Invoice from "./routes/invoices";
+import Invoice from "./routes/invoice";
 
 const rootElement = document.getElementById("root");
 render(
